@@ -1,1 +1,7 @@
+bash
+
+mkdir -p /home/claude/projects/{1-jenkins-cicd,2-docker-digital-library,3-bloodbank-k8s-cicd,4-aws-eks-project}
+Output
+
+exit code 0
 
